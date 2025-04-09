@@ -1,0 +1,1 @@
+Plot the coordinates in the order that they're numbered. Then, use the line tool (next to the marker) to connect coordinates 4-16 (in order). Try to think about what shape all of the coordinates most closely resemble and this is the password.
